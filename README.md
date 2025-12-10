@@ -1,2 +1,9 @@
 # FDU-SDS-Lecture-Notes
-Lecture Notes for Courses in FDU SDS
+## 课程列表
+
+### 数学类课程
+
+- MATH10003.01  高等线性代数
+- MATH20007.01  数值算法与案例分析Ⅰ（待填坑）
+
+- STAT20011.01  概率论基础（待填坑）
