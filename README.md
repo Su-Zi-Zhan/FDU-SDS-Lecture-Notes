@@ -18,5 +18,5 @@
 ## 致谢
 
 - ds 的所有老师；
-- Snape 学长的笔记；
+- [Snape 学长的笔记](https://github.com/Snivallus/FDU-Course-Notes-2024-2025)；
 - 所有帮忙勘误的同学们。
