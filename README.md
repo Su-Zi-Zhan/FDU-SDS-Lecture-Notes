@@ -5,6 +5,7 @@
 - 什么也没有！一片知识的荒原！白茫茫一片，真干净！
 - 估计还有不少错误，如有疑惑，欢迎发邮件或私信咨询！我的邮箱是 2576277959@qq.com。
 - 欢迎在星期四 v 作者 50 喵！欢迎 **请** 作者去 KTV 玩喵！
+- 欢迎去隔壁仓库 [Self-Learning-Notes](https://github.com/Su-Zi-Zhan/Self-Learning-Notes) 视奸我！
 
 ## 课程列表
 
