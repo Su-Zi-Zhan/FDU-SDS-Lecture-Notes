@@ -12,3 +12,5 @@
 - Lecture 2：最优化基础
 
 - Lecture 3：凸函数、梯度方法
+
+- Lecture 4：梯度算法的收敛性
