@@ -31,3 +31,4 @@
 - Lecture 3：插值与拟合（二）
 - Lecture 5：正交多项式与最佳一致逼近
 - Lecture 7：数值积分（一）
+- Lecture 8：数值积分（二）、数值微分、FFT（目前缺少 FFT 部分内容）
